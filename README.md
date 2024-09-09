@@ -10,7 +10,7 @@ About This Webpage:
 -   🐞 Error Handling
 -   🌐 Deployment
 -   🚀 And Many More Cool Features
--   ✅ This is a lot of work. Support my work by following [my github](https://www.github.com/ankush07-in_)
+-   ✅ This is a lot of work. Support my work by following [my github](https://www.github.com/ankush07-in)
 
 ### Setup .env file
 
