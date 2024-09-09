@@ -1,6 +1,6 @@
 <h1 align="center">Build Dummy Website Using React 🚀</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App]([/frontend/public/screenshot-for-readme.png](https://github.com/burakorkmez/mern-crash-course/blob/master/frontend/public/screenshot-for-readme.png?raw=true))
 
 About This Course:
 
