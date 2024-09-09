@@ -2,7 +2,7 @@
 
 ![Demo App](https://github.com/burakorkmez/mern-crash-course/blob/master/frontend/public/screenshot-for-readme.png?raw=true)
 
-About This Course:
+About This Webpage:
 
 -   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
 -   🔥 Build an API
